@@ -2,15 +2,15 @@
 
 > cat kankan223.txt
 
-[INFO] kankan's Profile
--------------------------
-Name:        Kankan Kalita
-Username:    kankan223
-Location:    Silchar, Assam, India
-Education:   2rd Semester, Computer Science
-Interests:   Linux, WebDev
-Email:       lulubib223@gmail.com
--------------------------
+[INFO] kankan's Profile  
+-------------------------  
+Name:        Kankan Kalita  
+Username:    kankan223  
+Location:    Silchar, Assam, India  
+Education:   2rd Semester, Computer Science  
+Interests:   Linux, WebDev  
+Email:       lulubib223@gmail.com  
+-------------------------  
 
 
 <!--
