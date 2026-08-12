@@ -7,8 +7,8 @@
 Name:        Kankan Kalita  
 Username:    kankan223  
 Location:    Silchar, Assam, India  
-Education:   2rd Semester, Computer Science  
-Interests:   Linux, WebDev  
+Education:   3rd Semester, Computer Science  
+Interests:   Linux, WebDev, automation 
 Email:       lulubib223@gmail.com  
 -------------------------  
 
