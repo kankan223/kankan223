@@ -46,20 +46,33 @@ GitHub activity
   <!-- <img src="https://streak-stats.demolab.com?user=kankan223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>Contribution graph -->
 
-<p align="center">
-  <img src="./github-metrics.svg"
-       width="70%" alt="GitHub Metrics" />
-</p>
+<h2 align="center">GitHub Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kankan223&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-</p>Contribution snake
+  <img src="./github-metrics.svg"
+       width="100%"
+       alt="GitHub contribution calendar and metrics" />
+</p>
+
+<h2 align="center">Top Languages</h2>
+
+<p align="center">
+  <img src="./profile/top-langs.svg"
+       width="60%"
+       alt="Top programming languages" />
+</p>
+
+<h2 align="center">Contribution Snake</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake.svg"
+         width="100%"
+         alt="Contribution snake" />
   </picture>
 </p>---
 
