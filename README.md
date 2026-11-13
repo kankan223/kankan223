@@ -1,31 +1,69 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Kankan Kalita — Developer Profile" />
+</p><h1 align="center">Hey, I'm Kankan 👋</h1><p align="center">
+  Computer Science Undergraduate · NIT Silchar
+</p><p align="center">
+  <a href="https://github.com/kankan223">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+things+that+solve+problems;Exploring+systems+%26+cybersecurity;Learning+by+building+and+breaking;Interested+in+AI+%26+agent+engineering" alt="Typing SVG" />
+  </a>
+</p>---
 
-> cat kankan223.txt
+About me
 
-[INFO] kankan's Profile  
--------------------------  
-Name:        Kankan Kalita  
-Username:    kankan223  
-Location:    Silchar, Assam, India  
-Education:   3rd Semester, Computer Science  
-Interests:   Linux, WebDev, automation 
-Email:       lulubib223@gmail.com  
--------------------------  
+I'm a CSE student interested in understanding how technology works beneath the surface and building useful things with it.
 
+- Exploring systems programming, cybersecurity and networking
+- Interested in AI, agent engineering and developer tools
+- Enjoy working with Linux and open-source software
+- Learning through experiments, side projects and problem-solving
 
-<!--
-**kankan223/kankan223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in building, breaking, understanding, and building better.
 
-Here are some ideas to get you started:
+Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,docker&perline=9" alt="Technologies" />
+</p>Selected projects
 
+Project| Description
+"NetSpecter" (https://github.com/kankan223/NetSpecter)| Python toolkit for networking, system monitoring and security utilities
+"ECO Website" (https://github.com/kankan223/ECO-Website)| Website for a student club
+"OMNIS" (https://github.com/kankan223/OMNIS)| Agent engineering and automation
 
+More experiments and projects can be found in my "repositories" (https://github.com/kankan223?tab=repositories).
+
+---
+
+GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kankan223&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankan223&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=kankan223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>Contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kankan223&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</p>Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kankan223/kankan223/metrics/github-metrics.svg"
+       width="100%" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kankan223/kankan223/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>---
+
+<p align="center">
+  <i>Still learning. Still building. Always curious.</i>
+</p><p align="center">
+  <a href="https://github.com/kankan223">GitHub</a>
+  ·
+  <a href="https://github.com/kankan223?tab=repositories">Projects</a>
+</p>
