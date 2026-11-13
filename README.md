@@ -50,7 +50,7 @@ GitHub activity
 
 <p align="center">
   <img src="./github-metrics.svg"
-       width="100%"
+       width="65%"
        alt="GitHub contribution calendar and metrics" />
 </p>
 
