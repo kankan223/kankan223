@@ -47,13 +47,13 @@ GitHub activity
 </p>Contribution graph -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kankan223&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-</p>Contribution snake
+  <img src="./github-metrics.svg"
+       width="70%" alt="GitHub Metrics" />
+</p>
 
 <p align="center">
-  <img src="./github-metrics.svg"
-       width="100%" alt="GitHub Metrics" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kankan223&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</p>Contribution snake
 
 <p align="center">
   <picture>
