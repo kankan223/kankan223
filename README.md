@@ -43,15 +43,15 @@ GitHub activity
   <img height="180" src="./profile/stats.svg" alt="GitHub statistics" />
   <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=kankan223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>Contribution graph
+  <!-- <img src="https://streak-stats.demolab.com?user=kankan223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>Contribution graph -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kankan223&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </p>Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kankan223/kankan223/metrics/github-metrics.svg"
+  <img src="./github-metrics.svg"
        width="100%" alt="GitHub Metrics" />
 </p>
 
