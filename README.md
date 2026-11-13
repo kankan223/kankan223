@@ -26,8 +26,8 @@ Tech stack
 </p>Selected projects
 
 Project| Description
-"NetSpecter" (https://github.com/kankan223/NetSpecter)| Python toolkit for networking, system monitoring and security utilities
-"ECO Website" (https://github.com/kankan223/ECO-Website)| Website for a student club
+"NetSpecter" (https://github.com/kankan223/NetSpecter)| Python toolkit for networking, system monitoring and security utilities <br>
+"ECO Website" (https://github.com/kankan223/ECO-Website)| Website for a student club <br>
 "OMNIS" (https://github.com/kankan223/OMNIS)| Agent engineering and automation
 
 More experiments and projects can be found in my "repositories" (https://github.com/kankan223?tab=repositories).
@@ -37,8 +37,11 @@ More experiments and projects can be found in my "repositories" (https://github.
 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kankan223&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankan223&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kankan223&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kankan223&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> -->
+
+  <img height="180" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=kankan223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>Contribution graph
